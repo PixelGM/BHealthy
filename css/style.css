@@ -711,7 +711,7 @@ ol {
 }
 
 .hero__text h2 {
-	font-size: 46px;
+	font-size: 42px;
 	color: #252525;
 	line-height: 52px;
 	font-weight: 700;
@@ -1015,14 +1015,14 @@ ol {
 
 .breadcrumb__text h2 {
 	font-size: 46px;
-	color: #ffffff;
+	color: #000000;
 	font-weight: 700;
 }
 
 .breadcrumb__option a {
 	display: inline-block;
 	font-size: 16px;
-	color: #ffffff;
+	color: #000000;
 	font-weight: 700;
 	margin-right: 20px;
 	position: relative;
@@ -1034,14 +1034,14 @@ ol {
 	top: 13px;
 	height: 1px;
 	width: 10px;
-	background: #ffffff;
+	background: #000000;
 	content: "";
 }
 
 .breadcrumb__option span {
 	display: inline-block;
 	font-size: 16px;
-	color: #ffffff;
+	color: #000000;
 }
 
 /*---------------------
