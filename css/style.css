@@ -1954,6 +1954,12 @@ ol {
 	float: right;
 }
 
+.primary-btn.cart-btn.cart-btn-middle {
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
 .primary-btn.cart-btn.cart-btn-front {
 	position: absolute;
 	left: 25%;
