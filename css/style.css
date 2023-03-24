@@ -158,6 +158,15 @@ ol {
 	letter-spacing: 2px;
 }
 
+.image-btn {
+	display: inline-block;
+	margin-left: 10px; /* adjust as needed */
+	padding: 20px;
+	border: none;
+	background-color: transparent;
+  }
+  
+
 .site-btn {
 	font-size: 14px;
 	color: #ffffff;
